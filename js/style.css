@@ -1,0 +1,93 @@
+
+/* 
+    Created on : 03.03.2021, 11:26:23
+    Author     : ahmad
+*/
+
+.container{
+    margin: 20px;
+    width: 800px;
+    height: auto;
+    background: rgb(230, 224, 224);
+    position: absolute;
+   
+}
+
+.card{
+    margin: 20px 0 20px 20px;
+    width: 700px;
+    height: auto;
+    background: #ffea97;
+    position: relative;
+    box-shadow: 2px 2px 4px #000000;
+
+}
+
+ul{
+    margin-left:20px;
+}
+
+ .zuList{
+    width: 150px;
+    height: 30px;
+    font-size: 18px;
+    border: 1px solid #000000;
+    background: #dfeba5;
+    padding-left:10px;
+    margin-bottom:2px;
+    border-radius: 5px;
+    text-shadow: 1px 1px 2px #fff;
+    box-shadow: 2px 2px 4px #000000;
+    list-style: none;
+ }
+
+ .list{
+    width: 450px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #000000;
+    background: #dfeba5;
+    padding-bottom:9px;
+    margin-bottom:2px;
+    border-radius: 5px;
+    text-shadow: 1px 1px 2px #fff;
+    box-shadow: 2px 2px 4px #000000;
+    list-style: none;
+ }
+
+ h2, h3{
+   text-align: center; 
+ }
+
+ .h3{
+     font-size: 20px;
+     text-align: left;
+ }
+ 
+ .bton{
+    width: 90px;
+    height: 30px;
+    border: 1px solid #000000;
+    background: #dfeba5;
+    margin-bottom:2px;
+    border-radius: 5px;
+    text-shadow: 1px 1px 2px #fff;
+    box-shadow: 2px 2px 4px #000000;
+ }
+ 
+ .liDiv{
+     display: flex;
+     flex-direction: row;
+     width: 800px;
+ }
+
+ .data{
+     margin: 0 0 10px 20px;
+
+ }
+ 
+ .pizza{
+     margin: 20px;
+     background: lightblue;
+ }
